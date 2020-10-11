@@ -1,0 +1,159 @@
+
+nav,
+#aboutUs,
+#features,
+#services,
+#portfolio,
+#contact,
+#footer,
+.loading-overlay{
+direction: rtl; /*Text (h2,h3 ...) direction goes from right-to-left*/
+}
+
+/*Navbar start*/
+.navbar {
+    font-size: 16px;
+}
+
+.navbar .btn {
+    font-size: 16px;
+}
+
+.navbar .lang{
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+/*Navbar end*/
+
+
+/*Home section start*/
+
+#home a {
+    font-size: 16px;
+
+}
+
+/*Home section end*/
+
+
+/*About us section start*/
+#aboutUs .col-lg-6{
+text-align: right;
+}
+
+
+#aboutUs p {
+    padding-right: 0px;
+     padding-left: 45px;
+}
+
+#aboutUs a {
+    font-size: 16px;
+
+}
+
+/*About us section end*/
+
+
+/*Features section start*/
+#features h3 {
+    font-size: 23px;
+}
+#features h2 {
+    font-size: 38px;
+}
+#features p {
+    font-size: 20px;
+}
+
+
+#features a {
+    font-size: 30px;
+}
+
+
+
+/*Features section end-->
+
+/*Services section start*/
+#services h3 {
+    font-size: 20px;
+}
+#services p {
+    font-size: 18px;
+}
+/*Services section end*/
+
+
+/*Blog section start*/
+
+#blog h3 {
+    font-size: 16px;
+}
+
+#blog span {
+    font-size: 15px;
+}
+
+/*Blog section end*/
+
+
+/*Footer section start*/
+
+#footer h4 {
+    font-size: 20px;
+}
+
+#footer .col-lg-6 p{
+font-size: 16px;
+}  
+
+
+/*Footer section end*/
+
+
+
+
+
+/*loading-overlay section start*/
+/*loading-overlay section end*/
+
+
+/*Scroll To Top start*/
+#scroll-top{
+right:0px;
+left:15px;
+}
+
+
+/*Scroll To Top end*/
+
+
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12{
+    
+float: right;
+    
+}
+
+
+.pull-left {
+    float: right !important;
+}
+
+.pull-right {
+    float: left !important;
+}
+
+.media-left, .media > .pull-left {
+    padding-left: 10px;
+}
+
+.list-unstyled {
+    padding-right: 0;
+}
+
+.footer .social-list li{
+    float: right !important;
+}
